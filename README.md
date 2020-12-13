@@ -1,4 +1,4 @@
-<h3>DEMO:</h3>
+<h3>DEMO: https://cerdemrc.github.io/pixabay-api/ </h3>
 <p>This data was produced from the Pixabay API.</p>
 <h4>used Techs: Vue JS, SASS, Axios</h4>
 
